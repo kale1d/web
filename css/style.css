@@ -41,8 +41,9 @@ body {
   background-color: #c682b8;
   opacity: 0.5;
 }
-p {
+.ipsum {
   padding: 3vh;
+  font-size: 1.2em;
   color: white;
 }
 .dos {
